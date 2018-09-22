@@ -2,7 +2,7 @@ import React ,{Component} from 'react';
 
 const Landing = ()=>{
     return(
-        <div style={{ textAlign:'center',color:'white',textShadow:'2px 2px 4px #1703c9'}}>
+        <div style={{ textAlign:'center',color:'white',textShadow:'2px 2px 4px #1703c9',margin:'15%'}}>
             <h1>
                 Email-66
             </h1>
