@@ -1,13 +1,12 @@
 import React ,{Component} from 'react';
 
-
 const Landing = ()=>{
     return(
-        <div style={{ textAlign:'center'}}>
+        <div style={{ textAlign:'center',color:'white',textShadow:'2px 2px 4px #1703c9'}}>
             <h1>
-                Emaily
+                Email-66
             </h1>
-            <p>collect feedback from your users</p>
+            <h5>we allow you to send Emails in bulk and <br/> collect feedback from your users</h5>
         </div>
     )
 }

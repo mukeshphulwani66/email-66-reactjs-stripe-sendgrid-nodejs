@@ -3,7 +3,7 @@ import React from 'react';
 export default ({input :input,label:label,meta:{touched,error}})=>{
     return(
        <div>
-        <label style={{fontSize:'20px'}}>{label}</label>
+        <label style={{fontSize:'20px',color:'white'}}>{label}</label>
         <input {...input} />
             <div 
             className="white-text #ff8a80 red accent-1"

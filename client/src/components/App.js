@@ -19,7 +19,7 @@ class App extends Component {
 
     render(){
     return(
-     <div className="container">
+     <div style={{height:'100vh',background:'linear-gradient(to right, rgba(132, 0, 255, 0.73), #ffffff)',backgroundColor:'white' }}>
          <BrowserRouter>
              <div>
                 <Header/>
