@@ -4,3 +4,4 @@
 
 we allow you to send Emails in bulk and 
 collect feedback from your users
+live view : https://email-66.herokuapp.com/
